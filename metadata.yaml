@@ -1,0 +1,30 @@
+_repo: Ulysses-of-Ithaca-Life-Stories-for-Young-People_59750
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+creator:
+  author:
+    agent_name: Becker, Karl Frederich
+    gutenberg_agent_id: '50608'
+    url: http://www.gutenberg.org/2009/agents/50608
+description: ''
+gutenberg_issued: '2019-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ulysses of Ithaca
+
+  Life Stories for Young People'
+url: http://www.gutenberg.org/ebooks/59750
